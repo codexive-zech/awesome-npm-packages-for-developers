@@ -9,6 +9,8 @@ Please note we have a code of conduct. Follow it in all your interactions with t
 
 Here are the following process needed to take in other to contribute to this project
 
+> Ensure your Pull Request adheres to the following guidelines
+
 1. Star and Fork the project down to your account
 
 2. Clone the repository into the Local Machine
@@ -17,6 +19,6 @@ Here are the following process needed to take in other to contribute to this pro
 
 4. After Done. Add and Commit the NPM Package changes to that branch and Push in other to make a Pull Request(PR)
 
-5. Wait For your Pull Request to be reviewed before been Merge to the Main Branch
+5. Wait For your Pull Request to be reviewed before being Merge to the Main Branch
 
 > NOTE: Create your own Branch and add all changes before making a PR, do not add make changes on the main branch
