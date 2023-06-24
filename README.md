@@ -1,4 +1,4 @@
-## Awesome NPM Packages List
+## AWESOME NPM PACKAGES LIST
 
 ![A Curated List of Awesome NPM Packages](https://github.com/codexive-zech/awesome-npm-packages-for-developers/assets/56152847/0c972157-ffde-4b50-88d3-4b8a48dcd050)
 
