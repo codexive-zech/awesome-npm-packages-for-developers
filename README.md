@@ -17,3 +17,6 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 * [Prettier](https://www.npmjs.com/package/prettier)
 > Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
+
+* [React Toastify](https://www.npmjs.com/package/react-toastify)
+> React-Toastify allows you to add notifications to your app with ease. No more nonsense!
