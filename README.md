@@ -6,17 +6,21 @@ NPM packages are JavaScript modules that can be installed and used in other Java
 
 Below are the Lists of Awesome NPM Packages Developers can Use on their Projects:
 
-* [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
-> React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
+- [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
 
-* [Axios](https://www.npmjs.com/package/axios)
-> Axios is a promise-based HTTP client for JavaScript. It is a popular library that makes it easy to make requests to APIs. Axios is available for both the browser and Node.js.
+  > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
 
-* [Jest](https://www.npmjs.com/package/jest)
-> Jest is a JavaScript testing framework. It was designed and built with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte
+- [Axios](https://www.npmjs.com/package/axios)
 
-* [Prettier](https://www.npmjs.com/package/prettier)
-> Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
+  > Axios is a promise-based HTTP client for JavaScript. It is a popular library that makes it easy to make requests to APIs. Axios is available for both the browser and Node.js.
 
-* [React Toastify](https://www.npmjs.com/package/react-toastify)
-> React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+- [Jest](https://www.npmjs.com/package/jest)
+
+  > Jest is a JavaScript testing framework. It was designed and built with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte
+
+- [Prettier](https://www.npmjs.com/package/prettier)
+
+  > Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
+
+- [React Toastify](https://www.npmjs.com/package/react-toastify)
+  > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
