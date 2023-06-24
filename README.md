@@ -66,6 +66,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > React Hook Form is a library for managing forms in React applications using hooks. It offers a lightweight and performant solution for building forms with easy validation and form state management.
 
+- [React Icons](https://www.npmjs.com/package/react-icons)
+
+  > React Icons package allows you to include popular icons in your React projects using ES6 imports.
+
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
 
   > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
@@ -73,6 +77,22 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 - [React-Router-dom](https://www.npmjs.com/package/react-router-dom)
 
   > react-router-dom package contains bindings for using React Router in web applications such as router, link, useNavigate, useHistory !
+
+- [React Select](https://www.npmjs.com/package/react-select)
+
+  > React Select is a flexible and beautiful select input control for React Js with multiselect, autocomplete, async etc.
+
+- [React Slick](https://www.npmjs.com/package/react-slick)
+
+  > React Slick is a carousel component built with React.
+
+- [React Spinners](https://www.npmjs.com/package/react-spinners)
+
+  > React Spinners is a collection of loading spinners for React.js.
+
+- [Recharts](https://www.npmjs.com/package/recharts)
+
+  > Recharts is a Redefined chart library built with React and D3.
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
 
