@@ -23,10 +23,28 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
   > Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
+
   > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
 
 - [React Beautiful Drag & Drop](https://www.npmjs.com/package/react-beautiful-dnd)
+
   > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
 
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
+
   > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
+
+- [Formik](https://www.npmjs.com/package/formik)
+
+  > For form management of react applications. Handles user inputs and submitting form inputs. Best used with yup.
+
+- [Yup](https://www.npmjs.com/package/yup)
+
+  > A JavaScript library for object schema validation. Provides a simple API for defining and validating JavaScript objects, including validation of nested objects. Yup is often used in combination with Formik to perform validation on form inputs.
+
+- [Material UI](https://mui.com/material-ui/getting-started/installation)
+
+  > Provides a comprehensive set of pre-designed and customizable UI components, styles, and themes to build modern and visually appealing user interfaces.
+
+- [Netlify-cli](https://www.npmjs.com/package/netlify-cli)
+  > Netlify CLI provides developers a means to interact with and manage their netlify sites and projects directly from the command line.
