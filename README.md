@@ -24,3 +24,9 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
   > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+
+- [React Beautiful Drag & Drop](https://www.npmjs.com/package/react-beautiful-dnd)
+  > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
+
+- [React Joyride](https://www.npmjs.com/package/react-joyride)
+  > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
