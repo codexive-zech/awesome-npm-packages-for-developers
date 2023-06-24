@@ -6,6 +6,10 @@ NPM packages are JavaScript modules that can be installed and used in other Java
 
 Below are the Lists of Awesome NPM Packages Developers can Use on their Projects:
 
+- [Add to Calendar button](https://www.npmjs.com/package/add-to-calendar-button)
+
+   > Add to Calendar Button is a JavaScript Web Component, which lets you reliably create beautiful buttons, where people can add events to their calendars. Supported calendars include Apple, Google, Microsoft (365, Outlook, Teams), Yahoo, and generic iCal. It integrates easily with any usual HTML webpage (VanillaJS way) as well as popular JavaScript frameworks and libraries like Angular, React, Vue, Svelte, and more.
+
 - [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
 
   > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
@@ -30,9 +34,32 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
 
+
+- [React Icons](https://www.npmjs.com/package/react-icons)
+
+  > React Icons package allows you to include popular icons in your React projects using ES6 imports.
+
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
 
   > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
+
+
+- [React Select](https://www.npmjs.com/package/react-select)
+
+  > React Select is a flexible and beautiful select input control for React Js with multiselect, autocomplete, async etc.
+
+- [React Slick](https://www.npmjs.com/package/react-slick)
+
+  > React Slick is a carousel component built with React.
+
+- [React Spinners](https://www.npmjs.com/package/react-spinners)
+
+  > React Spinners is a collection of loading spinners for React.js.
+
+- [Recharts](https://www.npmjs.com/package/recharts)
+
+  > Recharts is a Redefined chart library built with React and D3.
+
 
 - [Formik](https://www.npmjs.com/package/formik)
 
