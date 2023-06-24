@@ -23,4 +23,17 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
   > Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
+
   > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+
+- [Concurrently](https://www.npmjs.com/package/concurrently)
+
+  > Concurrently allows you to run backend server and frontend folder concurrently. This will save you the stress of running cd backend in the root folder, starting the server it, then doing cd frontend folder and starting the project. With Concurrently you can run both frontend and backend with one script in the root folder !
+
+- [React router dom](https://www.npmjs.com/package/react-router-dom)
+
+  > react-router-dom package contains bindings for using React Router in web applications such as router, link, useNavigate, useHistory !
+
+- [ExpressJS](https://www.npmjs.com/package/express)
+
+  > ExpressJS is a web framework that enables you to design a web application to handle a variety of different HTTP demands. !
