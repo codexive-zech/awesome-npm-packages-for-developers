@@ -8,11 +8,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [Add to Calendar button](https://www.npmjs.com/package/add-to-calendar-button)
 
-   > Add to Calendar Button is a JavaScript Web Component, which lets you reliably create beautiful buttons, where people can add events to their calendars. Supported calendars include Apple, Google, Microsoft (365, Outlook, Teams), Yahoo, and generic iCal. It integrates easily with any usual HTML webpage (VanillaJS way) as well as popular JavaScript frameworks and libraries like Angular, React, Vue, Svelte, and more.
-
-- [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
-
-  > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
+  > Add to Calendar Button is a JavaScript Web Component, which lets you reliably create beautiful buttons, where people can add events to their calendars. Supported calendars include Apple, Google, Microsoft (365, Outlook, Teams), Yahoo, and generic iCal. It integrates easily with any usual HTML webpage (VanillaJS way) as well as popular JavaScript frameworks and libraries like Angular, React, Vue, Svelte, and more.
 
 - [Axios](https://www.npmjs.com/package/axios)
 
@@ -38,6 +34,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > For form management of react applications. Handles user inputs and submitting form inputs. Best used with yup.
 
+  - [Formspree React](https://www.npmjs.com/package/@formspree/react)
+
+  > The Formspree React package is a React component library that makes it easy to integrate Formspree forms into your React application. It's a service that allows you to create and host forms without having to worry about the backend.
+
 - [Jest](https://www.npmjs.com/package/jest)
 
   > Jest is a JavaScript testing framework. It was designed and built with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte
@@ -54,6 +54,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Netlify CLI provides developers a means to interact with and manage their netlify sites and projects directly from the command line.
 
+- [Next-themes](https://www.npmjs.com/package/next-themes)
+
+  > Next Themes packages is a Next.js library that makes it easy to add dark mode support to your Next.js application. It provides a simple API for creating and managing themes, and it supports both system-level dark mode and custom theme.
+
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
   > Nodemon is a development tool for Node.js applications that automatically restarts the Node.js server whenever file changes are detected. It is commonly used during the development process to improve the development workflow by eliminating the need to manually restart the server after making code changes.
@@ -66,10 +70,13 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
 
+- [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
+
+  > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
+
 - [React-Hook-form](https://www.npmjs.com/package/react-hook-form)
 
   > React Hook Form is a library for managing forms in React applications using hooks. It offers a lightweight and performant solution for building forms with easy validation and form state management.
-
 
 - [React Icons](https://www.npmjs.com/package/react-icons)
 
@@ -79,6 +86,15 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
 
+  - [React leaflet](https://www.npmjs.com/package/react-leaflet)
+
+  > React Leaflet is a package that allows you to create an interactive maps in React using Leaflet's Powerful API
+
+- [React Loading Skeleton](https://www.npmjs.com/package/react-loading-skeloton)
+
+  > React Loading Skeleton package is a React library that allows you to create loading skeletons for your React application. Skeletons are a great way to improve the user experience of your app while it is loading.
+
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
   > react-router-dom package contains bindings for using React Router in web applications such as router, link, useNavigate, useHistory !
 
@@ -109,6 +125,14 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 - [Socket.io](https://www.npmjs.com/package/socket.io)
 
   > Socket.IO is a JavaScript library that enables real-time, bidirectional communication between web clients and servers. It provides a simple and efficient way to build real-time applications such as chat applications, collaborative tools, real-time gaming, and more
+
+- [Styled Components](https://www.npmjs.com/package/styled-components)
+
+  > Styled Components is a package that allows you to write CSS inside of Javascript. It is a popular choice for React Developers because it makes it easy to create reusable and maintainable styles.
+
+- [Swiper](https://www.npmjs.com/package/swiper)
+
+  > The Swiper Package is a free and open source Javascript library that provides a powerful and flexible slider for web application, mobile web application and mobile native/hybrid apps. It's a modern touch slider which is focused only on the modern apps/platforms to bring the best experience and simplicity.
 
 - [Yup](https://www.npmjs.com/package/yup)
 
