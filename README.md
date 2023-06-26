@@ -90,7 +90,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
 
-- [React-Hook-form](https://www.npmjs.com/package/react-hook-form)
+- [React Hook Form](https://www.npmjs.com/package/react-hook-form)
 
   > React Hook Form is a library for managing forms in React applications using hooks. It offers a lightweight and performant solution for building forms with easy validation and form state management.
 
