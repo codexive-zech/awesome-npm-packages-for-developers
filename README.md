@@ -34,7 +34,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > For form management of react applications. Handles user inputs and submitting form inputs. Best used with yup.
 
-  - [Formspree React](https://www.npmjs.com/package/@formspree/react)
+- [Formspree React](https://www.npmjs.com/package/@formspree/react)
 
   > The Formspree React package is a React component library that makes it easy to integrate Formspree forms into your React application. It's a service that allows you to create and host forms without having to worry about the backend.
 
