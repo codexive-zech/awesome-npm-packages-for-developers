@@ -54,9 +54,9 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Mongoose is an Object Data Modeling (ODM) library for Node.js that provides a straightforward and schema-based solution for interacting with MongoDB databases. It simplifies the process of working with MongoDB by providing a higher-level API and built-in support for data validation, schema definition, and query building!
 
-- [Netlify-cli](https://www.npmjs.com/package/netlify-cli)
+- [Netlify CLI](https://www.npmjs.com/package/netlify-cli)
 
-  > Netlify CLI provides developers a means to interact with and manage their netlify sites and projects directly from the command line.
+  > Netlify CLI is a command-line tool that allows you to deploy your site to Netlify. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [Next-themes](https://www.npmjs.com/package/next-themes)
 
@@ -85,7 +85,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 - [React Beautiful Drag & Drop](https://www.npmjs.com/package/react-beautiful-dnd)
 
   > React Beautiful Drag & Drop is a library that allows you to create drag and drop interfaces in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
-  
+
 - [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
 
   > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
