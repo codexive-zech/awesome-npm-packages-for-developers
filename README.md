@@ -96,7 +96,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Icons](https://www.npmjs.com/package/react-icons)
 
-  > React Icons package allows you to include popular icons in your React projects using ES6 imports.
+  > React Icons is a library that provides a set of icons for React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
 
