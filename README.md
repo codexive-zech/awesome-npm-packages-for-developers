@@ -100,7 +100,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
 
-  > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
+  > React Joyride is a React component that allows you to create a guided tour of your application. It is easy to use and highly customizable.
 
 - [React leaflet](https://www.npmjs.com/package/react-leaflet)
 
