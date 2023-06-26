@@ -58,7 +58,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Netlify CLI is a command-line tool that allows you to deploy your site to Netlify. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
-- [Next-themes](https://www.npmjs.com/package/next-themes)
+- [Next Themes](https://www.npmjs.com/package/next-themes)
 
   > Next Themes packages is a Next.js library that makes it easy to add dark mode support to your Next.js application. It provides a simple API for creating and managing themes, and it supports both system-level dark mode and custom theme.
 
