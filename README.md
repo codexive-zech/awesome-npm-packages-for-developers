@@ -128,7 +128,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [Recharts](https://www.npmjs.com/package/recharts)
 
-  > Recharts is a Redefined chart library built with React and D3.
+  > Recharts is a library that provides a set of components for building charts in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
 
