@@ -6,6 +6,10 @@ NPM packages are JavaScript modules that can be installed and used in other Java
 
 Below are the Lists of Awesome NPM Packages Developers can Use on their Projects:
 
+- [Headless UI](https://www.npmjs.com/package/@headlessui/react)
+
+  > Headless UI is a set of completely unstyled, fully accessible UI components for React, Vue, and Alpine.js. It's a great way to build accessible, lightweight, and performant user interfaces without having to worry about styling or accessibility.
+
 - [Add to Calendar button](https://www.npmjs.com/package/add-to-calendar-button)
 
   > Add to Calendar Button is a JavaScript Web Component, which lets you reliably create beautiful buttons, where people can add events to their calendars. Supported calendars include Apple, Google, Microsoft (365, Outlook, Teams), Yahoo, and generic iCal. It integrates easily with any usual HTML webpage (VanillaJS way) as well as popular JavaScript frameworks and libraries like Angular, React, Vue, Svelte, and more.
