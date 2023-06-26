@@ -112,7 +112,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
-  > react-router-dom package contains bindings for using React Router in web applications such as router, link, useNavigate, useHistory !
+  > React Router Dom is a library that provides routing capabilities for React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Select](https://www.npmjs.com/package/react-select)
 
