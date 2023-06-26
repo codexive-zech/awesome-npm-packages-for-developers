@@ -102,9 +102,9 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > React Joyride is a React component that allows you to create a guided tour of your application. It is easy to use and highly customizable.
 
-- [React leaflet](https://www.npmjs.com/package/react-leaflet)
+- [React Leaflet](https://www.npmjs.com/package/react-leaflet)
 
-  > React Leaflet is a package that allows you to create an interactive maps in React using Leaflet's Powerful API
+  > React Leaflet is a React component that allows you to create a map with markers, polygons, and other shapes. It is easy to use and highly customizable.
 
 - [React Loading Skeleton](https://www.npmjs.com/package/react-loading-skeloton)
 
