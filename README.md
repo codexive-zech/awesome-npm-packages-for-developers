@@ -14,6 +14,26 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Headless UI is a set of completely unstyled, fully accessible UI components for React, Vue, and Alpine.js. It's a great way to build accessible, lightweight, and performant user interfaces without having to worry about styling or accessibility.
 
+- [React Hook Form](https://www.npmjs.com/package/react-hook-form)
+
+  > React Hook Form is a library for managing forms in React applications using hooks. It offers a lightweight and performant solution for building forms with easy validation and form state management.
+
+- [React Toastify](https://www.npmjs.com/package/react-toastify)
+
+  > React-Toastify allows you to add notifications to your app with ease. No more nonsense boring alerts!
+
+- [React Icons](https://www.npmjs.com/package/react-icons)
+
+  > React Icons package allows you to include popular icons in your React projects using ES6 imports.
+
+- [React Testing Library](https://www.npmjs.com/package/@testing-library/react)
+
+  > React Testing Library is a library for testing React components. It provides a set of utilities that make it easy to write tests for your React components.
+
+- [React Query](https://www.npmjs.com/package/react-query)
+
+  > React Query is a library for managing data in React applications. It provides a simple and declarative API that makes it easy to fetch, cache, and update data from your server or API.
+
 - [Add to Calendar button](https://www.npmjs.com/package/add-to-calendar-button)
 
   > Add to Calendar Button is a JavaScript Web Component, which lets you reliably create beautiful buttons, where people can add events to their calendars. Supported calendars include Apple, Google, Microsoft (365, Outlook, Teams), Yahoo, and generic iCal. It integrates easily with any usual HTML webpage (VanillaJS way) as well as popular JavaScript frameworks and libraries like Angular, React, Vue, Svelte, and more.
