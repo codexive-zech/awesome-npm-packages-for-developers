@@ -6,6 +6,10 @@ NPM packages are JavaScript modules that can be installed and used in other Java
 
 Below are the Lists of Awesome NPM Packages Developers can Use on their Projects:
 
+- [React RC Carousel](https://www.npmjs.com/package/react-rc-carousel)
+
+  > React RC Carousel is a React component that allows you to create a carousel with images, videos, and text. It is easy to use and highly customizable.
+
 - [Headless UI](https://www.npmjs.com/package/@headlessui/react)
 
   > Headless UI is a set of completely unstyled, fully accessible UI components for React, Vue, and Alpine.js. It's a great way to build accessible, lightweight, and performant user interfaces without having to worry about styling or accessibility.
