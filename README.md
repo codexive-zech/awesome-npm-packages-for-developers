@@ -18,6 +18,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Bcrypt is a popular npm package used for hashing and salting passwords in Node.js applications. It provides a secure way to store passwords by applying a one-way hashing algorithm with the inclusion of a salt value. This helps protect user passwords even if the stored hashes are compromised.
 
+- [Chakra UI](https://www.npmjs.com/package/@chakra-ui/react)
+  
+  > Chakra UI is a React component library that provides a set of components for building user interfaces. It is a popular choice among developers because it offers a simple API and supports many different use cases.
+
 - [Concurrently](https://www.npmjs.com/package/concurrently)
 
   > Concurrently allows you to run backend server and frontend folder concurrently. This will save you the stress of running cd backend in the root folder, starting the server it, then doing cd frontend folder and starting the project. With Concurrently you can run both frontend and backend with one script in the root folder !
@@ -54,11 +58,11 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Mongoose is an Object Data Modeling (ODM) library for Node.js that provides a straightforward and schema-based solution for interacting with MongoDB databases. It simplifies the process of working with MongoDB by providing a higher-level API and built-in support for data validation, schema definition, and query building!
 
-- [Netlify-cli](https://www.npmjs.com/package/netlify-cli)
+- [Netlify CLI](https://www.npmjs.com/package/netlify-cli)
 
-  > Netlify CLI provides developers a means to interact with and manage their netlify sites and projects directly from the command line.
+  > Netlify CLI is a command-line tool that allows you to deploy your site to Netlify. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
-- [Next-themes](https://www.npmjs.com/package/next-themes)
+- [Next Themes](https://www.npmjs.com/package/next-themes)
 
   > Next Themes packages is a Next.js library that makes it easy to add dark mode support to your Next.js application. It provides a simple API for creating and managing themes, and it supports both system-level dark mode and custom theme.
 
@@ -84,27 +88,27 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Beautiful Drag & Drop](https://www.npmjs.com/package/react-beautiful-dnd)
 
-  > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
+  > React Beautiful Drag & Drop is a library that allows you to create drag and drop interfaces in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
 
   > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
 
-- [React-Hook-form](https://www.npmjs.com/package/react-hook-form)
+- [React Hook Form](https://www.npmjs.com/package/react-hook-form)
 
   > React Hook Form is a library for managing forms in React applications using hooks. It offers a lightweight and performant solution for building forms with easy validation and form state management.
 
 - [React Icons](https://www.npmjs.com/package/react-icons)
 
-  > React Icons package allows you to include popular icons in your React projects using ES6 imports.
+  > React Icons is a library that provides a set of icons for React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Joyride](https://www.npmjs.com/package/react-joyride)
 
-  > If you are looking to create walkthroughs and guided tours for your react apps, React Joyride is the library for you.
+  > React Joyride is a React component that allows you to create a guided tour of your application. It is easy to use and highly customizable.
 
-- [React leaflet](https://www.npmjs.com/package/react-leaflet)
+- [React Leaflet](https://www.npmjs.com/package/react-leaflet)
 
-  > React Leaflet is a package that allows you to create an interactive maps in React using Leaflet's Powerful API
+  > React Leaflet is a React component that allows you to create a map with markers, polygons, and other shapes. It is easy to use and highly customizable.
 
 - [React Loading Skeleton](https://www.npmjs.com/package/react-loading-skeloton)
 
@@ -112,27 +116,27 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 
-  > react-router-dom package contains bindings for using React Router in web applications such as router, link, useNavigate, useHistory !
+  > React Router Dom is a library that provides routing capabilities for React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Select](https://www.npmjs.com/package/react-select)
 
-  > React Select is a flexible and beautiful select input control for React Js with multiselect, autocomplete, async etc.
+  > React Select is a library that provides a set of components for building forms in React. It is a popular choice for developers because it offers a simple API and supports many different use cases.
 
 - [React Slick](https://www.npmjs.com/package/react-slick)
 
-  > React Slick is a carousel component built with React.
+  > React Slick is a React component that allows you to create a carousel with images, videos, and text. It is easy to use and highly customizable.
 
 - [React Spinners](https://www.npmjs.com/package/react-spinners)
 
-  > React Spinners is a collection of loading spinners for React.js.
+  > React Spinners is a library that provides a set of components for building loading spinners in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [Recharts](https://www.npmjs.com/package/recharts)
 
-  > Recharts is a Redefined chart library built with React and D3.
+  > Recharts is a library that provides a set of components for building charts in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
 
-  > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+  > React Toastify is a library that provides a simple API for creating toast notifications in React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [Redux](https://www.npmjs.com/package/redux)
 
