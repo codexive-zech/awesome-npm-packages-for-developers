@@ -132,7 +132,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Toastify](https://www.npmjs.com/package/react-toastify)
 
-  > React-Toastify allows you to add notifications to your app with ease. No more nonsense!
+  > React Toastify is a library that provides a simple API for creating toast notifications in React applications. It is a popular choice among developers because it offers a simple API and supports many different use cases.
 
 - [Redux](https://www.npmjs.com/package/redux)
 
