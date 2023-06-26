@@ -84,8 +84,8 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Beautiful Drag & Drop](https://www.npmjs.com/package/react-beautiful-dnd)
 
-  > React Beautiful DND makes it easy for developers to integrate drag and drop functionality into their web applications.
-
+  > React Beautiful Drag & Drop is a library that allows you to create drag and drop interfaces in React. It is a popular choice among developers because it offers a simple API and supports many different use cases.
+  
 - [React Circular Progressbar](https://www.npmjs.com/package/react-circular-progressbar)
 
   > React Circular Progress bar is a React component that displays a circular progress indicator. It is used to show the progress of an operation or task.
