@@ -116,7 +116,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [React Select](https://www.npmjs.com/package/react-select)
 
-  > React Select is a flexible and beautiful select input control for React Js with multiselect, autocomplete, async etc.
+  > React Select is a library that provides a set of components for building forms in React. It is a popular choice for developers because it offers a simple API and supports many different use cases.
 
 - [React Slick](https://www.npmjs.com/package/react-slick)
 
