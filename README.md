@@ -18,6 +18,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Bcrypt is a popular npm package used for hashing and salting passwords in Node.js applications. It provides a secure way to store passwords by applying a one-way hashing algorithm with the inclusion of a salt value. This helps protect user passwords even if the stored hashes are compromised.
 
+- [Chakra UI](https://www.npmjs.com/package/@chakra-ui/react)
+  
+  > Chakra UI is a React component library that provides a set of components for building user interfaces. It is a popular choice among developers because it offers a simple API and supports many different use cases.
+
 - [Concurrently](https://www.npmjs.com/package/concurrently)
 
   > Concurrently allows you to run backend server and frontend folder concurrently. This will save you the stress of running cd backend in the root folder, starting the server it, then doing cd frontend folder and starting the project. With Concurrently you can run both frontend and backend with one script in the root folder !
