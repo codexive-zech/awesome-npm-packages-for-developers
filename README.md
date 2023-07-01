@@ -42,13 +42,25 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > The Formspree React package is a React component library that makes it easy to integrate Formspree forms into your React application. It's a service that allows you to create and host forms without having to worry about the backend.
 
+- [Handlebars](https://www.npmjs.com/package/handlebars)
+
+  > Handlebars is a popular templating language that allows you to generate dynamic HTML or other markup templates in JavaScript applications. It provides a simple and intuitive syntax for embedding dynamic content into static template files.
+
 - [Headless UI](https://www.npmjs.com/package/@headlessui/react)
 
   > Headless UI is a set of completely unstyled, fully accessible UI components for React, Vue, and Alpine.js. It's a great way to build accessible, lightweight, and performant user interfaces without having to worry about styling or accessibility.
 
+- [Helmet](https://www.npmjs.com/package/helmet)
+
+  > Helmet is a middleware for Express.js which helps in securing your applications by setting various HTTP headers related to security. It helps you set up policies like Content Security Policy and X-XSS-Protection among many others.
+
 - [Jest](https://www.npmjs.com/package/jest)
 
-  > Jest is a JavaScript testing framework. It was designed and built with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte
+  > Jest is a JavaScript testing framework. It was designed and built with a focus on simplicity and support for large web applications. It works with projects using Babel, TypeScript, Node.js, React, Angular, Vue.js, and Svelte.
+
+- [Jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
+  > Jsonwebtoken is an npm package commonly used in Node.js applications for implementing JSON Web Tokens (JWTs). JSON Web Tokens are a compact and self-contained way of transmitting information between parties as a JSON object. They consist of three parts: a header, a payload, and a signature.
 
 - [Material UI](https://mui.com/material-ui/getting-started/installation)
 
@@ -57,6 +69,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 - [Mongoose](https://www.npmjs.com/package/mongoose)
 
   > Mongoose is an Object Data Modeling (ODM) library for Node.js that provides a straightforward and schema-based solution for interacting with MongoDB databases. It simplifies the process of working with MongoDB by providing a higher-level API and built-in support for data validation, schema definition, and query building!
+
+- [Moment](https://www.npmjs.com/package/moment)
+
+  > Moment is a popular JavaScript date library for parsing, validating, manipulating, and formatting dates.
 
 - [Netlify CLI](https://www.npmjs.com/package/netlify-cli)
 
