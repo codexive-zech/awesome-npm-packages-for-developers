@@ -86,6 +86,14 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > Nodemon is a development tool for Node.js applications that automatically restarts the Node.js server whenever file changes are detected. It is commonly used during the development process to improve the development workflow by eliminating the need to manually restart the server after making code changes.
 
+- [Numeral](https://www.npmjs.com/package/numeral)
+
+  > Numeral is a JavaScript library used for formatting and manipulating numbers. It provides an easy way to format numbers according to various patterns, apply custom formats, and perform mathematical operations on them.
+
+- [Html-Pdf](https://www.npmjs.com/package/html-pdf)
+
+  > Html-Pdf is a popular library used for generating PDF files from HTML content in Node.js applications. It provides a simple and straightforward way to convert HTML templates or web pages into PDF documents.
+
 - [Prettier](https://www.npmjs.com/package/prettier)
 
   > Prettier is an opinionated code formatter that enforces a consistent code style across your entire codebase. It is a popular tool that is used by many developers to improve the readability and consistency of their code.
