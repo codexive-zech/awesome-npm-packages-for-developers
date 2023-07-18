@@ -184,5 +184,7 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
 - [react-apexcharts](https://www.npmjs.com/package/react-apexcharts)
 
-  > A react trending library for creating interactive and visually appealing charts in React applications, making data visualization a breeze. You can import and use various types of charts such as line charts, bar charts, pie charts, and more. It provides a declarative syntax for configuring the charts and supports a wide range of customization options.
+  > A react trending library for creating interactive and visually appealing charts in React applications, making data visualization a breeze. You can import and use various types of charts such as line charts, bar charts, pie charts, and more. It provides a declarative syntax for configuring the charts and supports a wide range of customizable options.
+
+
 
