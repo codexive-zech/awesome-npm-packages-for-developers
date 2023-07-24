@@ -181,3 +181,10 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 - [Yup](https://www.npmjs.com/package/yup)
 
   > A JavaScript library for object schema validation. Provides a simple API for defining and validating JavaScript objects, including validation of nested objects. Yup is often used in combination with Formik to perform validation on form inputs.
+
+- [react-apexcharts](https://www.npmjs.com/package/react-apexcharts)
+
+  > A react trending library for creating interactive and visually appealing charts in React applications, making data visualization a breeze. You can import and use various types of charts such as line charts, bar charts, pie charts, and more. It provides a declarative syntax for configuring the charts and supports a wide range of customizable options.
+
+
+
