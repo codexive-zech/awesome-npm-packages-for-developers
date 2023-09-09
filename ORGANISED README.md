@@ -175,7 +175,7 @@ Frontend:
 
  6. [Numeral](https://www.npmjs.com/package/numeral)
 
-  > Numeral is a JavaScript library used for formatting and manipulating numbers. It provides an easy way to format numbers according to various patterns, apply custom formats, and perform mathematical operations on them.
+  > Numeral is a JavaScript library used for formatting and manipulating numbers. It provides a simple way to format numbers according to various patterns, apply custom formats, and perform mathematical operations on them.
 
 7. [Prettier](https://www.npmjs.com/package/prettier)
 
